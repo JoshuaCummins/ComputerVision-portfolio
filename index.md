@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Joshua Cummins Portfolio
 
-You can use the [editor on GitHub](https://github.com/JoshuaCummins/ComputerVision-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# [Employee Retention Prediction](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Employee%20Retention%20Prediction)
+End to end Classification model for employee likely to quit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Project Objective
+- Predict whether or not an employee will quit based on factors
+- Find insights on what keep employees 
+- Find insights on what makes employees leave
+ 
+#### Methods Used
+ Statistics, Machine Learning, Data Visualization,Predictive Modeling,
+ Logistic Regression, Data Cleansing,Random Forest, Deep Learning
 
-### Markdown
+#### Technologies 
+ Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, Keras, TensorFlow
+ ![](/images/1.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Predict Future Sales and Analysis of Sales Data](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Predict%20Future%20Sales%20and%20Analysis%20Sales%20data)
+Build an end to end time series prediction model to predict sales.
 
-```markdown
-Syntax highlighted code block
+#### Project Objective
+- Find Correlation on sales data and customer amount.
+- Predict what future sales are based on trends.
 
-# Header 1
-## Header 2
-### Header 3
+#### Methods Used
+ Statistics, Machine Learning, Data Visualization, Predictive Modeling,
+ Data analytics, Data Cleansing, Preproccessing
+ 
 
-- Bulleted
-- List
+#### Technologies
+* Facebook Prophet, Python, MatplotLib, Seaborn, Pandas, jupyter, Numpy
+![](/images/2.png)
 
-1. Numbered
-2. List
+# [Segmentation for Marketing](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Segmentation%20for%20Marketing)
+Analysis and Segment data for marketing team for targeted marketing campaigns and insights in customer habits.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Project Objective
+The purpose of this project is analyze sales data to find potential customers to market too.
+Analyze sale data to find insights on customer needs.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Methods Used
+ K-means, Machine Learning, Data Visualization, Principal Component Analysis
+ 
+#### Technologies
+Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy
 
-### Jekyll Themes
+![](/images/3.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshuaCummins/ComputerVision-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# [Multivariable Linear Regression for Real Estate](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Multivariable%20Linear%20Regression%20Real%20Estate)
+An end to end Linear Regression model and analysis. 
 
-### Support or Contact
+#### Project Objective
+- to create an end to end machine learning algorithm that predicts house prices on the Boston housing market.
+- find out which features have the biggest positive and negative impacts on housing prices
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Methods Used
+ Statistics, Machine Learning, Data Visualization, Predictive Modeling,
+ Linear Regression, Data Cleansing, Preproccessing, Feature Engineering
+ 
+#### Technologies
+Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels.api
+
+![](/images/4.png)
