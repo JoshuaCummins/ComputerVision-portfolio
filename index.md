@@ -1,65 +1,49 @@
 # Joshua Cummins Portfolio
 
-# [Employee Retention Prediction](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Employee%20Retention%20Prediction)
-End to end Classification model for employee likely to quit.
+# [X-ray Disease Prediction](https://github.com/JoshuaCummins/xray-disease-classification)
+End to end Classification model for classifying multiple diseases using X-ray Images
 
 #### Project Objective
-- Predict whether or not an employee will quit based on factors
-- Find insights on what keep employees 
-- Find insights on what makes employees leave
+- Predict whether or not a patient has Covid, pneumonia, or healthy lungs
+- Utilize transfer learning
+- Find visual clues for signs of disease in lungs
  
 #### Methods Used
- Statistics, Machine Learning, Data Visualization,Predictive Modeling,
- Logistic Regression, Data Cleansing,Random Forest, Deep Learning
+ Transfer Learning, Machine Learning, Data Visualization, Predictive Modeling,
+ Image Processing, Data Cleansing, Data Augmentation, Deep Learning
 
 #### Technologies 
- Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, Keras, TensorFlow
+ Python, jupyter, Numpy, Keras, TensorFlow, OpenCV, PIL
  ![](/images/1.png)
 
-# [Predict Future Sales and Analysis of Sales Data](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Predict%20Future%20Sales%20and%20Analysis%20Sales%20data)
-Build an end to end time series prediction model to predict sales.
+# [Sketch Web Application](https://github.com/JoshuaCummins/sketch-web-app-opencv)
+### [Try it here](https://sketch-app-opencv.herokuapp.com/)
+Deployed webapp that removes background image and makes image look hand drawn.
 
 #### Project Objective
-- Find Correlation on sales data and customer amount.
-- Predict what future sales are based on trends.
+- Utilize image processing to create a web app.
+- Generate new images using thresholding and edge detection.
 
 #### Methods Used
- Statistics, Machine Learning, Data Visualization, Predictive Modeling,
- Data analytics, Data Cleansing, Preproccessing
+ Thresholding, Image Processing, Server setup, Edge Detection 
  
 
 #### Technologies
-* Facebook Prophet, Python, MatplotLib, Seaborn, Pandas, jupyter, Numpy
+* OpenCV, Python, jupyter, Numpy, Streamlit, Heroku
 ![](/images/2.png)
 
-# [Segmentation for Marketing](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Segmentation%20for%20Marketing)
-Analysis and Segment data for marketing team for targeted marketing campaigns and insights in customer habits.
+# [Activation Map](https://github.com/JoshuaCummins/activation-map-webapp-streamlit)
+Analysis features that neural network use for classification.
 
 
 #### Project Objective
-The purpose of this project is analyze sales data to find potential customers to market too.
-Analyze sale data to find insights on customer needs.
+The purpose of this project is discover insights on which features are most important for classification for a convolutional neural network.
 
 #### Methods Used
- K-means, Machine Learning, Data Visualization, Principal Component Analysis
+ Transfer learning, Machine Learning, Data Visualization, Activation Mapping
  
 #### Technologies
-Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy
+Python, keras, Matplotlib, jupyter, Numpy, Tensorflow
 
 ![](/images/3.png)
 
-# [Multivariable Linear Regression for Real Estate](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Multivariable%20Linear%20Regression%20Real%20Estate)
-An end to end Linear Regression model and analysis. 
-
-#### Project Objective
-- to create an end to end machine learning algorithm that predicts house prices on the Boston housing market.
-- find out which features have the biggest positive and negative impacts on housing prices
-
-#### Methods Used
- Statistics, Machine Learning, Data Visualization, Predictive Modeling,
- Linear Regression, Data Cleansing, Preproccessing, Feature Engineering
- 
-#### Technologies
-Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels.api
-
-![](/images/4.png)
