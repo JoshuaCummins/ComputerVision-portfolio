@@ -14,7 +14,7 @@ End to end Classification model for classifying multiple diseases using X-ray Im
 
 #### Technologies 
  Python, jupyter, Numpy, Keras, TensorFlow, OpenCV, PIL
- ![](/images/1.png)
+![](/img/e.jpg)
 
 # [Sketch Web Application](https://github.com/JoshuaCummins/sketch-web-app-opencv)
 ### [Try it here](https://sketch-app-opencv.herokuapp.com/)
@@ -30,8 +30,8 @@ Deployed webapp that removes background image and makes image look hand drawn.
 
 #### Technologies
 * OpenCV, Python, jupyter, Numpy, Streamlit, Heroku
-![](/images/2.png)
-
+![](/img/a.jpg)
+![](/img/b.jpg)
 # [Activation Map](https://github.com/JoshuaCummins/activation-map-webapp-streamlit)
 Analysis features that neural network use for classification.
 
@@ -45,5 +45,5 @@ The purpose of this project is discover insights on which features are most impo
 #### Technologies
 Python, keras, Matplotlib, jupyter, Numpy, Tensorflow
 
-![](/images/3.png)
+![](/img/c.jpg) ![](/img/d.jpg)
 
