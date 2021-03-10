@@ -1,5 +1,22 @@
 # Joshua Cummins Portfolio
 
+# [Real Time Facemask Detection](https://github.com/JoshuaCummins/facemask_object_detection_imageai)
+### [Watch the youtube video I did on it](https://www.youtube.com/watch?v=icl_kzWPmNI)
+End to end facemask detector.
+
+#### Project Objective
+- Predict whether or not a person is wearing a facemask
+- Utilize object detection to recognize faces and classify
+ 
+#### Methods Used
+ Transfer Learning, Machine Learning, Data Visualization, Predictive Modeling,
+ Image Processing, Data Cleansing, Object Detection, Deep Learning
+
+#### Technologies 
+ Python, jupyter, Numpy, Imageio, TensorFlow, OpenCV, Matplotlib
+![](/img/f.png)
+
+
 # [X-ray Disease Prediction](https://github.com/JoshuaCummins/xray-disease-classification)
 End to end Classification model for classifying multiple diseases using X-ray Images
 
